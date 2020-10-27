@@ -1,0 +1,109 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    overflow: hidden;
+}
+.logo{
+    background-color: rgb(122, 163, 240);
+    float: left;
+    height: 80px;
+    width: 20%;
+}
+.logo h1{
+    color: whitesmoke;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.contact{
+    background-color: darkseagreen;
+    float: right;
+    height: 80px;
+    width: 80%;
+}
+.contact h1{
+    color: black;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.bennar{
+    background-color: blanchedalmond;
+    height: 300px;
+}
+.bennar h1{
+    color: black;
+    text-align: center;
+    padding-top: 150px;
+}
+.service{
+    overflow: hidden;
+
+}
+.service_image{
+    background-color: lightcyan;
+    float: left;
+    height: 300px;
+    width: 40%;
+}
+.service_image h1{
+    color: black;
+    text-align: center;
+    padding-top: 150px;
+}
+.service_text{
+    background-color: lightsteelblue;
+    float: right;
+    height: 300px;
+    width: 60%;
+}
+.service_text h1{
+    color: black;
+    text-align: center;
+    padding-top: 150px;
+}
+.review{
+    overflow: hidden;
+}
+.review_left{
+    background-color: azure;
+    float: left;
+    height: 400px;
+    width: 30%;
+}
+.review_left h1{
+    color: black;
+    text-align: center;
+    padding-top: 150px;
+}
+.review_centar{
+    background-color: beige;
+    float: left;
+    height: 400px;
+    width: 40%;
+}
+.review_centar h1{
+    color: black;
+    text-align: center;
+    padding-top: 150px;
+}
+.review_right{
+    background-color: bisque;
+    float: right;
+    height: 400px;
+    width: 30%;
+}
+.review_right h1{
+    color: black;
+    text-align: center;
+    padding-top: 150px;
+}
+.footer{
+    background-color: dodgerblue;
+    height: 100px;
+}
+.footer h1{
+    color: black;
+    text-align: center;
+    padding-top: 30px;
+}
